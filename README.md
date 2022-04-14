@@ -3,7 +3,9 @@
 - 👀 I’m interested in Machine Learning,Data Science,Deep Learning,Natural language processing (NLP), Computer Vision, Image Processing, BlockChain, Bioinformatics
 - 🌱 I’m currently learning  Machine Learing with python & Deep Learing
 - 💞️ I’m looking to collaborate on Data Science
-- 📫 How to reach me https://www.kaggle.com/moksedurrahman, https://github.com/MoksedurRahman
+- 📫 How to reach me https://www.kaggle.com/moksedurrahman, 
+-     https://github.com/MoksedurRahman
+-     https://www.linkedin.com/in/moksedur-rahman
 
 <!---
 MoksedurRahman/MoksedurRahman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
