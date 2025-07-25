@@ -39,7 +39,10 @@ Here are a few highlighted projects:
   Solved 100+ data structure & algorithm problems using Python. Well-documented with time/space complexities.
 
 ---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
+---
 
 
 ## 📈 GitHub Stats
