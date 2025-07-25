@@ -40,6 +40,11 @@ Here are a few highlighted projects:
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+---
+
+
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoksedurRahman&show_icons=true&theme=tokyonight)
