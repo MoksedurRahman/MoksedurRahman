@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🧰 Tech Stack
 
-**Languages**: Python, SQL, Java
+**Languages**: Python, SQL, Java 
 **Libraries**: pandas, NumPy, matplotlib, seaborn, scikit-learn, TensorFlow, OpenCV  
 **Tools**: Jupyter, Git, VS Code  
 **Other**: Data Analysis, Machine Learning, Data Visualization, DSA (in Python)
