@@ -44,31 +44,6 @@ Here are a few highlighted projects:
 
 <!--START_SECTION:waka-->
 
-name: Waka Readme
-
-on:
-  schedule:
-    - cron: '0 12 * * *' # Runs every day at 12:00 UTC
-  workflow_dispatch:
-
-jobs:
-  update-readme:
-    name: Update WakaTime Stats in README
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          ### Optional settings
-          SHOW_TITLE: true
-          COMMIT_MESSAGE: "📊 Updated WakaTime stats"
-          TIME_RANGE: last_7_days
-          LANG_COUNT: 5
-          BLOCKS: true
-          CODE_LANG: true
-          SHOW_TOTAL: true
-          SHOW_TIME: true
-
 <!--END_SECTION:waka-->
 
 
