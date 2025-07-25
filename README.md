@@ -43,49 +43,32 @@ Here are a few highlighted projects:
 ## ⌛ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+
 name: Waka Readme
 
 on:
-  # for manual workflow trigger
-  workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
+    - cron: '0 12 * * *' # Runs every day at 12:00 UTC
+  workflow_dispatch:
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: Update WakaTime Stats in README
     runs-on: ubuntu-latest
     steps:
-        # this action name
-      - uses: athul/waka-readme@master # do NOT replace with anything else
+      - uses: athul/waka-readme@master
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
-          ### meta
-          API_BASE_URL: https://wakatime.com/api # optional
-          REPOSITORY: MoksedurRahman/MoksedurRahman # optional
-          ### content
-          SHOW_TITLE: true # optional
-          SECTION_NAME: waka # optional
-          BLOCKS: -> # optional
-          CODE_LANG: rust # optional
-          TIME_RANGE: all_time # optional
-          LANG_COUNT: 10 # optional
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
-          SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML # optional
-          ### commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          TARGET_BRANCH: master # optional
-          TARGET_PATH: README.md # optional
-          COMMITTER_NAME: GitHubActionBot # optional
-          COMMITTER_EMAIL: action-bot@github.com # optional
-          AUTHOR_NAME: Md Moksedur Rahman # optional
-          AUTHOR_EMAIL: moksedur.rahman@gmail.com # optional
-          # you can populate email-id with secrets instead
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          ### Optional settings
+          SHOW_TITLE: true
+          COMMIT_MESSAGE: "📊 Updated WakaTime stats"
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 5
+          BLOCKS: true
+          CODE_LANG: true
+          SHOW_TOTAL: true
+          SHOW_TIME: true
+
 <!--END_SECTION:waka-->
 
 
