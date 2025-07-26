@@ -45,7 +45,6 @@ Here are a few highlighted projects:
 <!--START_SECTION:waka-->
 
 ```true
-From: 18 July 2025 - To: 25 July 2025
 
 Markdown   7 mins          █████████████▒░░░░░░░░░░░   53.33 %
 Python     6 mins          ███████████▓░░░░░░░░░░░░░   46.67 %
