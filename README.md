@@ -19,9 +19,10 @@ You can click the Preview link to take a look at your changes.
 ## 🧰 Tech Stack
 
 **Languages**: Python, SQL, Java  
-**Libraries**: pandas, NumPy, matplotlib, seaborn, scikit-learn, TensorFlow, OpenCV  
-**Tools**: Jupyter, Git, VS Code  
-**Other**: Data Analysis, Machine Learning, Data Visualization, DSA (in Python)
+**Libraries & Frameworks:**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, OpenCV  
+**Tools & Platforms**: Jupyter Notebook, Git, VS Code
+**Areas of Expertise:**: Data Analysis, Machine Learning, Deep Learning, Data Visualization, DSA in Python
+**Past Experience::**: Enterprise Application Development (Java, Oracle DB), Web Development (PHP, MySQL), Desktop based Garments ERP(C#.net, Oracle DB)
 
 ---
 
