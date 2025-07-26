@@ -7,7 +7,7 @@ on:
   # Scheduled daily at 12:00 AM UTC
   schedule:
     # Runs every hour
-    - cron: "0 0/1 * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
@@ -23,9 +23,9 @@ jobs:
           SHOW_LOC_CHART: True
           SYMBOL_VERSION: 2
           BLOCKS: "░▒▓█" 
-          TIME_RANGE: all_time 
+          TIME_RANGE: last_7_days 
           LANG_COUNT: 10
           SHOW_TIME: true
           SHOW_TOTAL: false
-          SHOW_UPDATED_DATE: False
           CODE_LANG: true
+          SHOW_UPDATED_DATE: False
