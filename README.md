@@ -40,7 +40,7 @@ Here are a few highlighted projects:
 
 ---
 
-## ⌛ During the week, I focused on....
+## ⌛ Throughout the week, I dedicated time to...
 
 <!--START_SECTION:waka-->
 
