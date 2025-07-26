@@ -40,7 +40,7 @@ Here are a few highlighted projects:
 
 ---
 
-## ⌛ Weekly Development Breakdown
+## ⌛ During the week, I focused on....
 
 <!--START_SECTION:waka-->
 
