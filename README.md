@@ -47,10 +47,8 @@ Here are a few highlighted projects:
 ```true
 From: 24 July 2025 - To: 25 July 2025
 
-Total Time: 14 mins
-
-Markdown                   █████████████▒░░░░░░░░░░░   53.33 %
-Python                     ███████████▓░░░░░░░░░░░░░   46.67 %
+Markdown   7 mins          █████████████▒░░░░░░░░░░░   53.33 %
+Python     6 mins          ███████████▓░░░░░░░░░░░░░   46.67 %
 ```
 
 <!--END_SECTION:waka-->
