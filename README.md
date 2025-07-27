@@ -30,8 +30,8 @@ You can click the Preview link to take a look at your changes.
 
 Here are a few highlighted projects:
 
-- 🧠 [**Student Performance Predictor**](https://github.com/MoksedurRahman/student-performance-predictor)  
-  Built a machine learning model to predict student exam performance using scikit-learn and pandas. Included data visualization and model evaluation.
+- 🚗 [**Fuel Efficiency Analysis and Visualization using Python**](https://github.com/MoksedurRahman/fuel-consumption-analysis)  
+  This project analyzes the FuelConsumption.csv dataset to explore how engine size, cylinders, and fuel consumption affect CO2 emissions. It includes data cleaning, visualizations, and a regression model to predict emissions using Python.
 
 - 📊 [**COVID-19 UK Dashboard**](https://github.com/MoksedurRahman/covid19-uk-dashboard)  
   Created an interactive data dashboard using Streamlit and matplotlib to analyze COVID-19 trends in the UK.
