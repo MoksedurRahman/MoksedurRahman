@@ -33,7 +33,7 @@ Here are a few highlighted projects:
 - 🚗 [**Fuel Efficiency Analysis and Visualization using Python**](https://github.com/MoksedurRahman/fuel-consumption-analysis)  
   This project analyzes the FuelConsumption.csv dataset to explore how engine size, cylinders, and fuel consumption affect CO2 emissions. It includes data cleaning, visualizations, and a regression model to predict emissions using Python.
 
-- 📊 [**Hheart_Disease_Classification**](https://github.com/MoksedurRahman/heart_disease_classification)  
+- 📊 [**Heart_Disease_Classification**](https://github.com/MoksedurRahman/heart_disease_classification)  
   To build and evaluate classification models that can accurately predict the likelihood of heart disease using structured health data, enabling better preventive healthcare decisions.
 
 - 📚 [**Data-Sructures-Algorithms-Python**](https://github.com/MoksedurRahman/data-structures-algorithms-python.git)  
