@@ -36,8 +36,8 @@ Here are a few highlighted projects:
 - 📊 [**Hheart_Disease_Classification**](https://github.com/MoksedurRahman/heart_disease_classification)  
   To build and evaluate classification models that can accurately predict the likelihood of heart disease using structured health data, enabling better preventive healthcare decisions.
 
-- 📚 [**Python DSA Tracker**](https://github.com/MoksedurRahman/dsa-python-solutions.git)  
-  Solved 100+ data structure & algorithm problems using Python. Well-documented with time/space complexities.
+- 📚 [**Data-Sructures-Algorithms-Python**](https://github.com/MoksedurRahman/data-structures-algorithms-python.git)  
+  curated collection of data structures, algorithms, and problem-solving techniques using Python. This repository is part of my learning and preparation journey for coding interviews and competitive programming.
 
 ---
 
