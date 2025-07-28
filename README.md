@@ -33,8 +33,8 @@ Here are a few highlighted projects:
 - 🚗 [**Fuel Efficiency Analysis and Visualization using Python**](https://github.com/MoksedurRahman/fuel-consumption-analysis)  
   This project analyzes the FuelConsumption.csv dataset to explore how engine size, cylinders, and fuel consumption affect CO2 emissions. It includes data cleaning, visualizations, and a regression model to predict emissions using Python.
 
-- 📊 [**COVID-19 UK Dashboard**](https://github.com/MoksedurRahman/covid19-uk-dashboard)  
-  Created an interactive data dashboard using Streamlit and matplotlib to analyze COVID-19 trends in the UK.
+- 📊 [**Hheart_Disease_Classification**](https://github.com/MoksedurRahman/heart_disease_classification)  
+  To build and evaluate classification models that can accurately predict the likelihood of heart disease using structured health data, enabling better preventive healthcare decisions.
 
 - 📚 [**Python DSA Tracker**](https://github.com/MoksedurRahman/dsa-python-solutions.git)  
   Solved 100+ data structure & algorithm problems using Python. Well-documented with time/space complexities.
