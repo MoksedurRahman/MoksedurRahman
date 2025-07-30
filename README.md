@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MoksedurRahman – Aspiring Data Scientist & Python Enthusiast
-- 🔭 I’m passionate about turning data into actionable insights using Python, ML, and visualization tools.
-- 👀 I’m interested in Deep Learning, Computational neuroscience, Brain Connectivity
-- 🌱 Currently learning: Deep Learning, building real-world ML apps and Brain Connectivity
-- 📊 I enjoy working on data science, machine learning, and data visualization projects 
+- 🔭 Passionate about turning data into actionable insights using Python, machine learning, and visualization tools
+- 👀 Interested in Deep Learning, Computational Neuroscience, and Brain Connectivity
+- 🌱 Currently learning: Deep Learning, real-world ML applications, and Brain Connectivity
+- 📊 Enjoy working on data science, machine learning, and data visualization projects
 - 📫 How to reach me https://www.kaggle.com/moksedurrahman, 
 -     https://github.com/MoksedurRahman
 -     https://www.linkedin.com/in/moksedur-rahman
