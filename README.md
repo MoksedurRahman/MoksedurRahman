@@ -46,12 +46,11 @@ Here are a few highlighted projects:
 <!--START_SECTION:waka-->
 
 ```true
-From: 02 August 2025 - To: 09 August 2025
+From: 03 August 2025 - To: 10 August 2025
 
-Python     4 hrs 56 mins   ████████████████████░░░░░   79.96 %
-Markdown   1 hr 13 mins    █████░░░░░░░░░░░░░░░░░░░░   19.73 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-CSV        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Python     4 hrs 4 mins    ███████████████████▒░░░░░   77.73 %
+Markdown   1 hr 9 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.16 %
+CSV        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
