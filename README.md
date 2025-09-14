@@ -46,12 +46,10 @@ Here are a few highlighted projects:
 <!--START_SECTION:waka-->
 
 ```true
-From: 04 September 2025 - To: 11 September 2025
+From: 05 September 2025 - To: 12 September 2025
 
-HTML   6 mins          ██████████████████▒░░░░░░   73.42 %
-CSS    1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
-PHP    1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
-INI    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+HTML   6 mins          █████████████████████▒░░░   84.92 %
+CSS    1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   15.08 %
 ```
 
 <!--END_SECTION:waka-->
