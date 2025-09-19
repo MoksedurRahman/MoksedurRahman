@@ -46,7 +46,7 @@ Here are a few highlighted projects:
 <!--START_SECTION:waka-->
 
 ```true
-From: 09 September 2025 - To: 16 September 2025
+From: 10 September 2025 - To: 17 September 2025
 
 HTML   1 hr 3 mins     █████████████▓░░░░░░░░░░░   54.84 %
 PHP    51 mins         ███████████░░░░░░░░░░░░░░   44.40 %
