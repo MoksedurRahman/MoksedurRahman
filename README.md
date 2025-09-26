@@ -46,12 +46,14 @@ Here are a few highlighted projects:
 <!--START_SECTION:waka-->
 
 ```true
-From: 16 September 2025 - To: 23 September 2025
+From: 17 September 2025 - To: 24 September 2025
 
-Java              34 mins         ████████████▒░░░░░░░░░░░░   49.41 %
-XML               29 mins         ██████████▒░░░░░░░░░░░░░░   41.33 %
-Markdown          4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
-Java Properties   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+Java              34 mins         ███████████░░░░░░░░░░░░░░   43.55 %
+XML               29 mins         █████████░░░░░░░░░░░░░░░░   36.43 %
+Other             5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+Markdown          4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
+Python            4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+Java Properties   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
 ```
 
 <!--END_SECTION:waka-->
