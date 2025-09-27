@@ -46,7 +46,7 @@ Here are a few highlighted projects:
 <!--START_SECTION:waka-->
 
 ```true
-From: 17 September 2025 - To: 24 September 2025
+From: 18 September 2025 - To: 25 September 2025
 
 Java              34 mins         ███████████░░░░░░░░░░░░░░   43.55 %
 XML               29 mins         █████████░░░░░░░░░░░░░░░░   36.43 %
