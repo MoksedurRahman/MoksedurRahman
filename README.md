@@ -46,7 +46,7 @@ Here are a few highlighted projects:
 <!--START_SECTION:waka-->
 
 ```true
-From: 30 September 2025 - To: 07 October 2025
+From: 01 October 2025 - To: 08 October 2025
 
 Python   10 mins         ████████████▒░░░░░░░░░░░░   49.81 %
 HTML     9 mins          ███████████░░░░░░░░░░░░░░   44.65 %
