@@ -46,13 +46,9 @@ Here are a few highlighted projects:
 <!--START_SECTION:waka-->
 
 ```true
-From: 02 October 2025 - To: 09 October 2025
+From: 03 October 2025 - To: 10 October 2025
 
-Python   10 mins         ████████████▒░░░░░░░░░░░░   49.81 %
-HTML     9 mins          ███████████░░░░░░░░░░░░░░   44.65 %
-Text     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-Git      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
