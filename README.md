@@ -46,7 +46,7 @@ Here are a few highlighted projects:
 <!--START_SECTION:waka-->
 
 ```true
-From: 24 November 2025 - To: 30 November 2025
+From: 25 November 2025 - To: 01 December 2025
 
 No activity tracked
 ```
