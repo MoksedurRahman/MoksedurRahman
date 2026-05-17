@@ -8,6 +8,7 @@
 -     https://www.linkedin.com/in/moksedur-rahman
 -     https://medium.com/@moksedur.rahman
 -     https://moksedurrahman.github.io/
+-     https://www.essex.ac.uk/people/RAHMA80001
 - 🌍 Location: UK (open to remote/hybrid roles)
 <!---
 MoksedurRahman/MoksedurRahman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
