@@ -3,12 +3,12 @@
 - 👀 Interested in Deep Learning, Computational Neuroscience, and Brain Connectivity
 - 🌱 Currently learning: Deep Learning, real-world ML applications, and Brain Connectivity
 - 📊 Enjoy working on data science, machine learning, and data visualization projects
-- 📫 How to reach me https://www.kaggle.com/moksedurrahman, 
+- 📫 How to reach me https://moksedurrahman.github.io, 
 -   Github Profile:  https://github.com/MoksedurRahman
--     https://www.linkedin.com/in/moksedur-rahman
--     https://medium.com/@moksedur.rahman
--     https://moksedurrahman.github.io/
--     https://www.essex.ac.uk/people/RAHMA80001
+-   Linkedin: https://www.linkedin.com/in/moksedur-rahman
+-   Medium: ttps://medium.com/@moksedur.rahman
+-   kaggle: https://www.kaggle.com/moksedurrahman
+-   @Essex:  https://www.essex.ac.uk/people/RAHMA80001
 - 🌍 Location: UK (open to remote/hybrid roles)
 <!---
 MoksedurRahman/MoksedurRahman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
