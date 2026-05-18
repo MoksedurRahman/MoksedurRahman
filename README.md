@@ -6,7 +6,7 @@
 - 👀 **Research Interests**: Explainable AI (XAI), Computational Neuroscience, EEG Signal Processing, and Deep Learning for Healthcare.
 - 💼 **Industry Background**: Over 11 years of professional tech experience, progressing from a Software Developer to an R&D Team Leader managing scalable enterprise architectures.
 - 🛠️ **Technical Leadership**: Actively directing a dedicated engineering team capable of delivering production-ready, enterprise Java and web applications.
-- 📫 **How to reach me**: [Personal Website](https://github.io)
+- 📫 **How to reach me**: [Personal Website](https://moksedurrahman.github.io/)
 
 ---
 
@@ -35,7 +35,7 @@
 - **LinkedIn**: [in/moksedurrahman](https://www.linkedin.com/in/moksedur-rahman)
 - **University Directory**: [@Essex Profile](https://www.essex.ac.uk/people/RAHMA80001)
 - **Research & Notebooks**: [Kaggle](https://www.kaggle.com/moksedurrahman) | [Medium Blog](https://medium.com/@moksedur.rahman)
-- **Portfolio Website**: [moksedurrahman.github.io](https://github.io)
+- **Portfolio Website**: [moksedurrahman.github.io](https://moksedurrahman.github.io/)
 
 ---
 ---
