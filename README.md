@@ -6,7 +6,7 @@
 - 📫 How to reach me https://moksedurrahman.github.io, 
 -   Github Profile:  https://github.com/MoksedurRahman
 -   Linkedin: https://www.linkedin.com/in/moksedur-rahman
--   Medium: ttps://medium.com/@moksedur.rahman
+-   Medium: https://medium.com/@moksedur.rahman
 -   kaggle: https://www.kaggle.com/moksedurrahman
 -   @Essex:  https://www.essex.ac.uk/people/RAHMA80001
 - 🌍 Location: UK (open to remote/hybrid roles)
