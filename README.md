@@ -1,30 +1,43 @@
-- 👋 Hi, I’m @MoksedurRahman – Aspiring Data Scientist & Python Enthusiast
-- 🔭 Passionate about turning data into actionable insights using Python, machine learning, and visualization tools
-- 👀 Interested in Deep Learning, Computational Neuroscience, and Brain Connectivity
-- 🌱 Currently learning: Deep Learning, real-world ML applications, and Brain Connectivity
-- 📊 Enjoy working on data science, machine learning, and data visualization projects
-- 📫 How to reach me https://moksedurrahman.github.io, 
--   Github Profile:  https://github.com/MoksedurRahman
--   Linkedin: https://www.linkedin.com/in/moksedur-rahman
--   Medium: https://medium.com/@moksedur.rahman
--   kaggle: https://www.kaggle.com/moksedurrahman
--   @Essex:  https://www.essex.ac.uk/people/RAHMA80001
-- 🌍 Location: UK (open to remote/hybrid roles)
-<!---
-MoksedurRahman/MoksedurRahman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm @MoksedurRahman 
+
+### PhD Researcher in Computer Science | Data Scientist | Former R&D Team Lead
+
+- 🔭 **Current Focus**: Developing explainable deep learning models and advanced time-series analysis for electroencephalography (EEG) data to support the early detection of neurodegenerative diseases.
+- 👀 **Research Interests**: Explainable AI (XAI), Computational Neuroscience, EEG Signal Processing, and Deep Learning for Healthcare.
+- 💼 **Industry Background**: Over 11 years of professional tech experience, progressing from a Software Developer to an R&D Team Leader managing scalable enterprise architectures.
+- 🛠️ **Technical Leadership**: Actively directing a dedicated engineering team capable of delivering production-ready, enterprise Java and web applications.
+- 📫 **How to reach me**: [Personal Website](https://github.io)
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack & Tools
 
-**Languages**: Python, SQL, Java  
-**Libraries & Frameworks**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, OpenCV  
-**Tools & Platforms**: Jupyter Notebook, Git, VS Code  
-**Areas of Expertise**: Data Analysis, Machine Learning, Deep Learning, Data Visualization, DSA in Python  
-**Past Experience**: Enterprise Application Development (Java, Oracle DB), Web Development (PHP, MySQL), Desktop based Garments ERP(C#.net, Oracle DB)
 
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Research & Data Science** | Python, MATLAB, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn |
+| **Enterprise Engineering** | Java, Spring Boot, Hibernate, SQL, Oracle DB |
+| **Web Development** | Angular, JavaScript, HTML5, CSS3 |
+| **Tools & Platforms** | Git, Jupyter Notebook, VS Code |
+
+---
+
+## 🔬 Core Areas of Expertise
+
+- **Biomedical Signal Processing**: Decoding complex temporal brain signals and artifact removal in EEG data.
+- **Explainable Machine Learning**: Engineering transparent, robust AI systems suited for real-world clinical deployment.
+- **Enterprise System Design**: Architectural oversight for large-scale production applications, ERP systems, and secure backend databases.
+
+---
+
+## 🔗 Connect With Me
+
+- **LinkedIn**: [in/moksedurrahman](https://www.linkedin.com/in/moksedur-rahman)
+- **University Directory**: [@Essex Profile](https://www.essex.ac.uk/people/RAHMA80001)
+- **Research & Notebooks**: [Kaggle](https://www.kaggle.com/moksedurrahman) | [Medium Blog](https://medium.com/@moksedur.rahman)
+- **Portfolio Website**: [moksedurrahman.github.io](https://github.io)
+
+---
 ---
 
 ## 🔧 Projects
