@@ -4,7 +4,7 @@
 - 🌱 Currently learning: Deep Learning, real-world ML applications, and Brain Connectivity
 - 📊 Enjoy working on data science, machine learning, and data visualization projects
 - 📫 How to reach me https://www.kaggle.com/moksedurrahman, 
--     https://github.com/MoksedurRahman
+-   Github Profile:  https://github.com/MoksedurRahman
 -     https://www.linkedin.com/in/moksedur-rahman
 -     https://medium.com/@moksedur.rahman
 -     https://moksedurrahman.github.io/
