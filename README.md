@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @MoksedurRahman 
+# 👋 Hi, I'm Md Moksedur Rahman 
 
 ### PhD Researcher in Computer Science | Data Scientist | Former R&D Team Lead
 
