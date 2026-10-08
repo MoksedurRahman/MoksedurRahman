@@ -60,10 +60,10 @@ Here are a few highlighted projects:
 <!--START_SECTION:waka-->
 
 ```true
-From: 28 September 2026 - To: 05 October 2026
+From: 30 September 2026 - To: 07 October 2026
 
-MATLAB       15 mins               ██████████████████████░░░   88.43 %
-Git Config   2 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
+MATLAB       9 mins                ████████████████████▒░░░░   81.59 %
+Git Config   2 mins                ████▓░░░░░░░░░░░░░░░░░░░░   18.41 %
 ```
 
 <!--END_SECTION:waka-->
