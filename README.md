@@ -60,11 +60,11 @@ Here are a few highlighted projects:
 <!--START_SECTION:waka-->
 
 ```true
-From: 07 October 2026 - To: 14 October 2026
+From: 08 October 2026 - To: 15 October 2026
 
-MATLAB        45 mins               ████████████████████░░░░░   80.57 %
-Objective-C   9 mins                ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
-Git Config    1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+MATLAB        1 hr 30 mins          ██████████████████████▒░░   89.28 %
+Objective-C   9 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
+Git Config    1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
 ```
 
 <!--END_SECTION:waka-->
